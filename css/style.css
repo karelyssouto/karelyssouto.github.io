@@ -467,9 +467,8 @@ blockquote::before{
 }
 .top-slider {
 	color: #fff;
-	font-family: playfair display;
+	font-family: 'Inconsolata', monospace;
 	font-size: 25px;
-	font-style: italic;
 	letter-spacing: 0;
 	line-height: 1;
 	margin: 0;
